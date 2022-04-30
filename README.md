@@ -67,7 +67,7 @@ ROS Eloquent (EOL)
 
 ## LICENSE
 
-(C) 2019-2021 Tiryoh
+(C) 2021-2022 Salih
 
 This repository is released under the Apache License 2.0, see [LICENSE](./LICENSE).  
 Unless attributed otherwise, everything in this repository is under the Apache License 2.0.
